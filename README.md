@@ -30,7 +30,7 @@ The node also outputs a preview of the gain map (grayscale) for debugging.
 - **预览图像叠加峰值亮度** – 第一输出为带有“Peak: XXX nits”文本的预览图像（大字号），便于调试。
 - **增益图预览** – 第二输出为增益图的灰度可视化（数值归一化到0-1），可连接 `PreviewImage` 节点查看，用于调试。
 - **双语界面** – 节点参数根据系统语言自动切换中文/英文。
-- **开箱即用** – 所有依赖（包括 `ultrahdr_app` 可执行文件）均已打包，无需额外下载。
+- **开箱即用** – 依赖（包括 `ultrahdr_app` 可执行文件）均已打包，无需额外下载。
 
 ### 🏆 Uniqueness & Advantages / 独家性与前瞻性优势
 
