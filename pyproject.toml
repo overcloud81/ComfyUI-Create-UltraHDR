@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-create-ultra-hdr"
 description = "Convert sRGB images to Ultra HDR JPEG (ISO 21496-1)"
-version = "1.0.0"
+version = "1.0.1"
 license = { file = "LICENSE" }
 dependencies = [
     "scipy>=1.9.0",
