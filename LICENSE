@@ -1,0 +1,59 @@
+Business Source License 1.1
+
+License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
+"Business Source License" is a trademark of MariaDB Corporation Ab.
+
+---
+
+Parameters
+
+Licensor:             overcloud81
+Licensed Work:        Create Ultra HDR Image Node for ComfyUI
+                      The Licensed Work is (c) 2026 overcloud81
+
+Additional Use Grant: Any use for personal, non‑commercial purposes is permitted.
+                      Commercial use requires a separate commercial license from the Licensor.
+
+Change Date:          2030-01-01
+Change License:       Apache License, Version 2.0
+
+---
+
+Terms
+
+The Licensed Work is made available under this Business Source License (the "License")
+subject to the following terms:
+
+1. The Licensor hereby grants you the right to use, modify, create derivative works,
+   and reproduce the Licensed Work, solely for your internal business purposes or for
+   non‑commercial use, subject to the Additional Use Grant above.
+
+2. Any use of the Licensed Work in a production environment, or any use that is not
+   expressly permitted by the Additional Use Grant, requires a separate commercial
+   license from the Licensor. You may contact the Licensor at the address provided
+   in the source code or documentation.
+
+3. You may distribute the Licensed Work, provided that you include a copy of or
+   refer to this License and retain all copyright, patent, trademark, and attribution
+   notices.
+
+4. Neither the name of the Licensor nor the names of its contributors may be used
+   to endorse or promote products derived from this software without specific prior
+   written permission.
+
+5. THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+   HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+   OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+Notice
+
+The Business Source License (this document, or the "License") is not an Open Source
+license. However, the Licensed Work will eventually become available under an Open
+Source License, as stated in the "Change Date" and "Change License" parameters.
+
+For more information, see https://mariadb.com/bsl11.

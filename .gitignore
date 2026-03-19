@@ -1,0 +1,30 @@
+# Python 字节码缓存
+__pycache__/
+*.py[cod]
+*.so
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 编辑器临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统垃圾文件
+.DS_Store
+Thumbs.db
+
+# 日志/临时文件
+*.log
+*.tmp
+*.temp
+*.bak
+
+# 项目特定（可选）
+# 如果日后想排除某些输出文件夹，可取消注释
+# outputs/
