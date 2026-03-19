@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Create Ultra HDR Image Node for ComfyUI
-Version: 1.0.0
+Version: 1.0.1
 Author: overcloud81@github
 
 License: Business Source License 1.1 (BSL-1.1)
