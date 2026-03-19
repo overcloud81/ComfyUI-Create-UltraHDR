@@ -30,7 +30,7 @@ The node also outputs a preview of the gain map (grayscale) for debugging.
 - **预览图像叠加峰值亮度** – 第一输出为带有“Peak: XXX nits”文本的预览图像（大字号），便于调试。
 - **增益图预览** – 第二输出为增益图的灰度可视化（数值归一化到0-1），可连接 `PreviewImage` 节点查看，用于调试。
 - **双语界面** – 节点参数根据系统语言自动切换中文/英文。
-- **开箱即用** – 依赖（包括 `ultrahdr_app` 可执行文件）均已打包，无需额外下载。
+- **开箱即用** – 所有依赖（包括 `ultrahdr_app` 可执行文件）均已打包，无需额外下载。
 
 ### 🏆 Uniqueness & Advantages / 独家性与前瞻性优势
 
@@ -143,6 +143,16 @@ This means images created with this node will display correctly on billions of d
 - Adobe Lightroom：导出带有正确增益图嵌入的 Ultra HDR 图像。
 
 这意味着使用本节点创建的图像将在全球数十亿设备上正确显示，从最新智能手机到桌面浏览器，无需任何额外插件或转换。在非 HDR 设备上，它们作为标准 JPEG 显示，肉眼观察无任何差异。
+
+### 📱 Social Media Support / 社交平台支持
+
+**English:**  
+- **小红书 (RedNote)** and **酷安 (CoolAPK)** have been confirmed to support uploading and displaying Ultra HDR images. Users have successfully shared HDR photos with HDR metadata preserved.  
+- For international platforms like Instagram, Twitter/X, and Facebook, official support is not yet announced, but is expected as the ISO 21496-1 standard becomes more widespread.
+
+**中文：**  
+- **小红书** 和 **酷安** 已被确认支持上传和显示 Ultra HDR 图像。用户已成功分享带有HDR元数据的照片。  
+- 对于 Instagram、Twitter/X、Facebook 等国际平台，目前尚未有官方支持公告，但随着 ISO 21496-1 标准的普及，预计未来将会支持。
 
 ### 📦 Installation / 安装
 
